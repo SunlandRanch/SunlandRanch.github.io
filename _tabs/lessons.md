@@ -4,6 +4,7 @@ title: 'Lessons and Clinics'
 date: '2010-10-11T22:34:22-07:00'
 author: lucian303
 layout: page
+order: 3
 guid: 'http://sunlandranch.com/'
 sfw_comment_form_password:
     - DgIB4gtf9sMI

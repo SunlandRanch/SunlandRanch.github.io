@@ -4,6 +4,7 @@ title: Saddles
 date: '2011-02-24T20:10:23-08:00'
 author: lucian303
 layout: page
+order: 4
 guid: 'http://sunlandranch.com/'
 sfw_comment_form_password:
     - e0qPvaF9tTmp

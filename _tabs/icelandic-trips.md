@@ -4,6 +4,7 @@ title: 'Icelandic Trips'
 date: '2010-10-12T02:31:37-07:00'
 author: lucian303
 layout: page
+order: 7
 guid: 'http://sunlandranch.com/'
 sfw_comment_form_password:
     - rSX6t2aNWKEg

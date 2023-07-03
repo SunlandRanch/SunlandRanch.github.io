@@ -4,6 +4,7 @@ title: 'The Icelandic Horse'
 date: '2010-07-27T23:14:21-07:00'
 author: lucian303
 layout: page
+order: 6
 guid: 'http://sunlandranch.com/'
 sfw_comment_form_password:
     - HE9uNI12iAU0

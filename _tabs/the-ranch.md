@@ -4,6 +4,7 @@ title: 'Top 10 Icelandic Horse Care Tips'
 date: '2010-07-27T23:06:35-07:00'
 author: lucian303
 layout: page
+order: 5
 guid: 'http://sunlandranch.com/'
 sfw_comment_form_password:
     - 5wmPtytgUy69

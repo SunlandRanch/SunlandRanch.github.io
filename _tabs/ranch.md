@@ -5,6 +5,7 @@ date: '2010-10-12T00:41:14-07:00'
 author: lucian303
 layout: page
 guid: 'http://sunlandranch.com/'
+order: 2
 sfw_comment_form_password:
     - 3lkiUgUW95VG
 sfw_pwd:

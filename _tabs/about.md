@@ -5,6 +5,7 @@ date: '2010-07-23T02:58:02-07:00'
 author: lucian303
 layout: page
 guid: 'http://slr/?page_id=7'
+order: 1
 sfw_comment_form_password:
     - lsxk7gyInHyZ
 sfw_pwd:
