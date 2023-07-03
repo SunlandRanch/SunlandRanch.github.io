@@ -35,5 +35,3 @@ We have several used saddles available for immediate shipping:
 <div class="wp-caption alignnone" id="attachment_836" style="width: 394px">[![Tor Reiter (3)](http://sunlandranch.com/wp-content/uploads/2011/03/Tor-Reiter-3.jpg)](http://sunlandranch.com/wp-content/uploads/2011/03/Tor-Reiter-3.jpg)Top Reiter Icelandic Saddle
 
 </div>Contact us for additional information and photo’s on all saddles.
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="Used Saddles" data-url="https://www.sunlandranch.com/used-saddles/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="Used Saddles" data-url="https://www.sunlandranch.com/used-saddles/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>

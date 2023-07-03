@@ -25,5 +25,3 @@ About eight years ago, I bought my first horse from Kimberly. That was only the 
 Thank you Kimberly.  
 K.O.  
 Eagle, Freyja, Snickers, Odinn
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="About eight years ago, I bought my first horse from Kimberly." data-url="https://www.sunlandranch.com/i-bought-my-first-horse-from-kimberly/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="About eight years ago, I bought my first horse from Kimberly." data-url="https://www.sunlandranch.com/i-bought-my-first-horse-from-kimberly/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>

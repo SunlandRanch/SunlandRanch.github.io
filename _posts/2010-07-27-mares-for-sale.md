@@ -64,5 +64,3 @@ Sweet, fun horse to ride. We found her a new owner.
 </div>**Harpa**
 
 12 years old, 14 hands. Extremely pretty 5 gaited dark palomino mare. Gorgeous long mane and tail. Imported and owned by small family for 6 years. Dearly loved and trail ridden by mother and children alone often. Family circumstances force sale. She was purchased from the Icelandic farm Pingeyrar in Iceland. She has found a new home.
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="Mares for Sale" data-url="https://www.sunlandranch.com/mares-for-sale/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="Mares for Sale" data-url="https://www.sunlandranch.com/mares-for-sale/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>

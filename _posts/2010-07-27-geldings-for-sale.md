@@ -42,5 +42,3 @@ Born 2007 . Chestnut gelding . Sire: Stigandi fra Leysingjastodum , Dam: Rak fra
 </div>**Dreyri fra Pverholtum**
 
 Born 1991, Gelding imported from Iceland. Been there, done it, show horse. Really sweet and easy to ride, very smooth tolt. Looking for a good home. Owned by the same family for many years. Located in Southern California. We found him a new home. **SOLD**
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="Geldings for Sale" data-url="https://www.sunlandranch.com/geldings-for-sale/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="Geldings for Sale" data-url="https://www.sunlandranch.com/geldings-for-sale/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>
