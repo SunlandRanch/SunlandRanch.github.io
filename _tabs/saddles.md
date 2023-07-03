@@ -35,5 +35,3 @@ Inquire about a demo.
 
 - 1 used Harmony
 - Two wintec saddles, good used condition, $450 each. Will send photos if interested…
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="Saddles" data-url="https://www.sunlandranch.com/saddles/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="Saddles" data-url="https://www.sunlandranch.com/saddles/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>

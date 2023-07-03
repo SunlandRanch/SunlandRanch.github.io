@@ -27,8 +27,4 @@ All the horses I’ve purchased are horses that I want to own and ride myself. I
 
 In the last 12 years I have visited Iceland 11 times, traveled to attend Icelandic World Championship competitions in Germany and Holland and tried out for the US Icelandic team. I’ve published articles, formed a club and made many lifelong friends. Welcome to my world!
 
-<div class="wp-caption alignleft" id="attachment_839" style="width: 317px">[![Bassi - my Icelandic Sheep Dog](http://sunlandranch.com/wp-content/uploads/2010/07/IMG_7188-640x426.jpg)](http://sunlandranch.com/wp-content/uploads/2010/07/IMG_7188.jpg)Bassi – my Icelandic Sheep Dog
-
-</div>*Kimberly Hart*
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="About Me" data-url="https://www.sunlandranch.com/about/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="About Me" data-url="https://www.sunlandranch.com/about/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>
+*Kimberly Hart*

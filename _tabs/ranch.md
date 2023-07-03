@@ -44,5 +44,3 @@ d) your horse is limping or uneven in his gaits
 e) your horse just doesn’t seem “right” to you
 
 10\. Enjoy horse ownership. It’s one of the most rewarding friendships on the planet. No other animal allows us to feel the wind in our hair and the energy beneath us for so little reward…honor their commitment to us with quality care and a long life…
-
-<div class="linksalpha_container linksalpha_app_3" data-counters="1" data-size="regular" data-style="square" data-title="The Ranch" data-url="https://www.sunlandranch.com/icelandic-horse/ranch/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div><div class="linksalpha_container linksalpha_app_7" data-position="" data-title="The Ranch" data-url="https://www.sunlandranch.com/icelandic-horse/ranch/">[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)[](//www.linksalpha.com/share?network=)</div>
