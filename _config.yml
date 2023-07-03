@@ -1,7 +1,5 @@
 # The Site Configuration
-url: 'https://www.sunlandranch.com'
 name: 'Sunland Ranch'
-description: 'Come, meet my Icelandic Horses, and fly with us!'
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -26,7 +24,7 @@ title: Sunland Ranch # the main title
 tagline: Come, meet my Icelandic Horses, and fly with us! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Sunland Ranch is a ranch of Icelandic Horses in California.
+  Come, meet my Icelandic Horses, and fly with us!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.sunlandranch.com/"
@@ -76,10 +74,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/wp-content/uploads/2010/07/sshow5.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
